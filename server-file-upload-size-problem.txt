@@ -1,0 +1,4 @@
+Sometime we face a major problem for uploading any file from website.
+All insert code is ok but file or video does not upload.
+
+Solution: have to check your xaamp or server config. and open your ini file from php settings. and search upload_file.
